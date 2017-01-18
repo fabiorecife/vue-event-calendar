@@ -14,5 +14,13 @@ export default {
     fullFormat: 'yyyy年MM月dd日',
     dayEventsTitle: '全部事件',
     notHaveEvents: '没有事件'
+  },
+  pt: {
+     dayNames: ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sab"],
+    monthNames: ["Janeiro", "Fevereiro", "Marco", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
+    format: 'MM/yyyy',
+    fullFormat: 'dd/MM/yyyy',
+    dayEventsTitle: 'Todos os Eventos',
+    notHaveEvents: 'Não têm eventos'
   }
 }
